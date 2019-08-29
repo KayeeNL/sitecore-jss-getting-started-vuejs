@@ -56,7 +56,7 @@
     "apollo-link-batch-http": "^1.2.12",
     "apollo-link-persisted-queries": "~0.2.2",
     "axios": "^0.18.1",
-    "bootstrap": "~4.2.1",
+    "bootstrap": "~4.3.1",
     "cross-fetch": "~2.2.3",
     "graphql": "~14.0.2",
     "i18next": "^13.1.5",
